@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="dub.json">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" PreferredExecutionTarget="plain" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dub.json">
+    <Files>
+      <File FileName="source/app.d" Line="33" Column="29" />
+      <File FileName="../wavefront-obj/source/wavefront/obj.d" Line="1" Column="1" />
+      <File FileName="../utga/source/utga.d" Line="1" Column="1" />
+      <File FileName="dub.json" Line="5" Column="19" />
+      <File FileName="../wavefront-obj/dub.json" Line="5" Column="19" />
+      <File FileName="../utga/dub.json" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

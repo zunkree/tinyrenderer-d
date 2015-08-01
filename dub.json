@@ -1,0 +1,11 @@
+{
+	"name": "tinyrenderer-d",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, zunkree",
+	"license": "MIT",
+	"authors": ["zunkree"],
+	"dependencies": {
+		"utga" : ">=0.0.1",
+		"wavefront-obj": ">=0.0.1"
+	}
+}
