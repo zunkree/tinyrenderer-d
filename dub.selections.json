@@ -1,7 +1,7 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"utga": "0.0.1",
-		"wavefront-obj": "0.0.1"
+		"utga": "0.0.2",
+		"wavefront-obj": "0.0.2"
 	}
 }
